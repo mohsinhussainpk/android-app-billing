@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Wed Aug 01 20:42:53 PKT 2018
+1.base=/home/mohsin/Documents/android-play-billing/DriveVroom/mobile/build/intermediates/transforms/dexMerger/debug/50
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/home/mohsin/Documents/android-play-billing/DriveVroom/mobile/build/intermediates/transforms/dexMerger/debug/51
+3.set=DEX
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=DEX
+0.path=classes.dex
+3.base=/home/mohsin/Documents/android-play-billing/DriveVroom/mobile/build/intermediates/transforms/dexMerger/debug/48
+0.set=DEX
+0.base=/home/mohsin/Documents/android-play-billing/DriveVroom/mobile/build/intermediates/transforms/dexMerger/debug/49
+2.baseType=DIRECTORY
+1.path=classes.dex

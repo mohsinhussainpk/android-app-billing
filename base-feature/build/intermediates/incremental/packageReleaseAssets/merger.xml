@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/mohsin/Documents/android-play-billing/DriveVroom1/base-feature/src/main/assets"/><source path="/home/mohsin/Documents/android-play-billing/DriveVroom1/base-feature/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/mohsin/Documents/android-play-billing/DriveVroom1/base-feature/src/release/assets"/></dataSet></merger>

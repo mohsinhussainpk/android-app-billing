@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mohsin/Documents/android-play-billing/DriveVroom1/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values-round-v23/values-round-v23.xml",
+            "map": [
+                {
+                    "source": "/home/mohsin/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0-alpha3.aar/eb3ed06a720b9a6541d17f0f9d07568e/res/values-round-v23/values.xml",
+                    "from": {
+                        "startLines": "4,5,8,9,10,11,12,13,14,15",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "213,269,472,531,608,689,733,806,855,937",
+                        "endColumns": "55,56,58,76,80,43,72,48,81,75",
+                        "endOffsets": "268,325,530,607,688,732,805,854,936,1012"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,176,239,320,405,453,530,583,669",
+                        "endColumns": "59,60,62,80,84,47,76,52,85,79",
+                        "endOffsets": "110,171,234,315,400,448,525,578,664,744"
+                    }
+                }
+            ]
+        }
+    ]
+}

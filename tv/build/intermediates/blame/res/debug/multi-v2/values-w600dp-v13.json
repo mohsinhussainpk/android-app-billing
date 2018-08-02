@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mohsin/Documents/android-play-billing/DriveVroom1/tv/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/mohsin/Documents/android-play-billing/DriveVroom1/tv/src/main/res/values-w600dp/dimens.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "666",
+                        "endColumns": "48",
+                        "endOffsets": "710"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

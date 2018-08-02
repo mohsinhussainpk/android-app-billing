@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:17:1-39:12
+MERGED from [:shared-module] /home/mohsin/Documents/android-play-billing/DriveVroom1/shared-module/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /home/mohsin/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0-alpha3.aar/eb3ed06a720b9a6541d17f0f9d07568e/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.8.0.aar/dd8d5cba6198e6746f3741e307913099/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/1feee2ddd9e4ca2dd145935f66abec2e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/e3fe97fd31f9d71a9122782e56e015f5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/a62d7760dfdd9fd37a46c3d1109a2f83/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/530da49e40d38fd30b5be2026d6486a9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/ca2d7de36430320afd3724535de0aa0f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/67e0d28c0b14dbe34e7dd5801b9d48a7/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/898145a95ed5fb5981d86b77985ad697/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/78a7f7a69beb318adbbd4411192718ab/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/00ce8da0ce26a7a682540b913ca04cd9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/496738effc37a56d50b1822629a88e6d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/8dad074228dff2bc67e9019149edc8ed/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/afdc17d66d9583b181d1471b064d0e38/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9f2b10e1a889fd2d65d402981ae5d8c5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/a91270bd372d6100d7874759e8190224/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:19:5-40
+		INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+		INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:17:1-39:12
+		INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:17:1-39:12
+		INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:17:11-69
+	android:targetSandboxVersion
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:18:5-37
+uses-feature#android.hardware.type.watch
+ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:21:5-63
+	android:name
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:21:19-61
+application
+ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:23:5-37:19
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /home/mohsin/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0-alpha3.aar/eb3ed06a720b9a6541d17f0f9d07568e/AndroidManifest.xml:6:5-19
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /home/mohsin/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0-alpha3.aar/eb3ed06a720b9a6541d17f0f9d07568e/AndroidManifest.xml:6:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.8.0.aar/dd8d5cba6198e6746f3741e307913099/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.8.0.aar/dd8d5cba6198e6746f3741e307913099/AndroidManifest.xml:18:5-19
+MERGED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/1feee2ddd9e4ca2dd145935f66abec2e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/1feee2ddd9e4ca2dd145935f66abec2e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/e3fe97fd31f9d71a9122782e56e015f5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/e3fe97fd31f9d71a9122782e56e015f5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/a62d7760dfdd9fd37a46c3d1109a2f83/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/a62d7760dfdd9fd37a46c3d1109a2f83/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/530da49e40d38fd30b5be2026d6486a9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/530da49e40d38fd30b5be2026d6486a9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/ca2d7de36430320afd3724535de0aa0f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/ca2d7de36430320afd3724535de0aa0f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/67e0d28c0b14dbe34e7dd5801b9d48a7/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/67e0d28c0b14dbe34e7dd5801b9d48a7/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/898145a95ed5fb5981d86b77985ad697/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/898145a95ed5fb5981d86b77985ad697/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/78a7f7a69beb318adbbd4411192718ab/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/78a7f7a69beb318adbbd4411192718ab/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/00ce8da0ce26a7a682540b913ca04cd9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/00ce8da0ce26a7a682540b913ca04cd9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/496738effc37a56d50b1822629a88e6d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/496738effc37a56d50b1822629a88e6d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/8dad074228dff2bc67e9019149edc8ed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/8dad074228dff2bc67e9019149edc8ed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/afdc17d66d9583b181d1471b064d0e38/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/afdc17d66d9583b181d1471b064d0e38/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9f2b10e1a889fd2d65d402981ae5d8c5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9f2b10e1a889fd2d65d402981ae5d8c5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/a91270bd372d6100d7874759e8190224/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/a91270bd372d6100d7874759e8190224/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:25:9-45
+	android:allowBackup
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:28:9-41
+activity#com.example.billingsample.TrivialDriveActivity
+ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:30:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+MERGED from [:shared-module] /home/mohsin/Documents/android-play-billing/DriveVroom1/shared-module/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-23:41
+MERGED from [:shared-module] /home/mohsin/Documents/android-play-billing/DriveVroom1/shared-module/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /home/mohsin/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0-alpha3.aar/eb3ed06a720b9a6541d17f0f9d07568e/AndroidManifest.xml:4:5-72
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /home/mohsin/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0-alpha3.aar/eb3ed06a720b9a6541d17f0f9d07568e/AndroidManifest.xml:4:5-72
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.8.0.aar/dd8d5cba6198e6746f3741e307913099/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.8.0.aar/dd8d5cba6198e6746f3741e307913099/AndroidManifest.xml:17:5-42
+MERGED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/1feee2ddd9e4ca2dd145935f66abec2e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/1feee2ddd9e4ca2dd145935f66abec2e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/e3fe97fd31f9d71a9122782e56e015f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/e3fe97fd31f9d71a9122782e56e015f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/a62d7760dfdd9fd37a46c3d1109a2f83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/a62d7760dfdd9fd37a46c3d1109a2f83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/530da49e40d38fd30b5be2026d6486a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/530da49e40d38fd30b5be2026d6486a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/ca2d7de36430320afd3724535de0aa0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/ca2d7de36430320afd3724535de0aa0f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/67e0d28c0b14dbe34e7dd5801b9d48a7/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/67e0d28c0b14dbe34e7dd5801b9d48a7/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/898145a95ed5fb5981d86b77985ad697/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/898145a95ed5fb5981d86b77985ad697/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/78a7f7a69beb318adbbd4411192718ab/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/78a7f7a69beb318adbbd4411192718ab/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/00ce8da0ce26a7a682540b913ca04cd9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/00ce8da0ce26a7a682540b913ca04cd9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/496738effc37a56d50b1822629a88e6d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/496738effc37a56d50b1822629a88e6d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/8dad074228dff2bc67e9019149edc8ed/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/8dad074228dff2bc67e9019149edc8ed/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/afdc17d66d9583b181d1471b064d0e38/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/afdc17d66d9583b181d1471b064d0e38/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9f2b10e1a889fd2d65d402981ae5d8c5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9f2b10e1a889fd2d65d402981ae5d8c5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/a91270bd372d6100d7874759e8190224/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/a91270bd372d6100d7874759e8190224/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/1feee2ddd9e4ca2dd145935f66abec2e/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+		INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+		ADDED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+		INJECTED from /home/mohsin/Documents/android-play-billing/DriveVroom1/wear/src/main/AndroidManifest.xml
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:9:22-64
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:12:9-15:75
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:14:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:15:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:1.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/billing-1.0.aar/fc1c512f3419ce60f3da41e620f3e753/AndroidManifest.xml:13:13-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/1feee2ddd9e4ca2dd145935f66abec2e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/e3fe97fd31f9d71a9122782e56e015f5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/e3fe97fd31f9d71a9122782e56e015f5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/a62d7760dfdd9fd37a46c3d1109a2f83/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/a62d7760dfdd9fd37a46c3d1109a2f83/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/530da49e40d38fd30b5be2026d6486a9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/530da49e40d38fd30b5be2026d6486a9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/ca2d7de36430320afd3724535de0aa0f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/ca2d7de36430320afd3724535de0aa0f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/00ce8da0ce26a7a682540b913ca04cd9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/00ce8da0ce26a7a682540b913ca04cd9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/496738effc37a56d50b1822629a88e6d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/496738effc37a56d50b1822629a88e6d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/8dad074228dff2bc67e9019149edc8ed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/8dad074228dff2bc67e9019149edc8ed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/afdc17d66d9583b181d1471b064d0e38/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/afdc17d66d9583b181d1471b064d0e38/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9f2b10e1a889fd2d65d402981ae5d8c5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9f2b10e1a889fd2d65d402981ae5d8c5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/a91270bd372d6100d7874759e8190224/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/a91270bd372d6100d7874759e8190224/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/1feee2ddd9e4ca2dd145935f66abec2e/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.2] /home/mohsin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/1feee2ddd9e4ca2dd145935f66abec2e/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/67e0d28c0b14dbe34e7dd5801b9d48a7/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/67e0d28c0b14dbe34e7dd5801b9d48a7/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/67e0d28c0b14dbe34e7dd5801b9d48a7/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/67e0d28c0b14dbe34e7dd5801b9d48a7/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/78a7f7a69beb318adbbd4411192718ab/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/78a7f7a69beb318adbbd4411192718ab/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/mohsin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/78a7f7a69beb318adbbd4411192718ab/AndroidManifest.xml:20:20-65

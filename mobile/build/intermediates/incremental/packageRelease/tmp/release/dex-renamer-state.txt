@@ -1,0 +1,4 @@
+#Thu Aug 02 15:23:20 PKT 2018
+base.0=/home/mohsin/Documents/android-play-billing/DriveVroom1/mobile/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
